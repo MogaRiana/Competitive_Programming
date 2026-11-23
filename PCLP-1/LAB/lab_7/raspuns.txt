@@ -1,0 +1,2 @@
+nu e inclus string.h deci e eroare
+ar fi 4 daca ar fi fost inclus

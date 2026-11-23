@@ -3,7 +3,4 @@
 using namespace std;
 
 int main()
-{
-    cout << "Hello world!" << endl;
-    return 0;
-}
+/usr/bin/bash: line 1: run: command not found
